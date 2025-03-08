@@ -1,4 +1,4 @@
-name: ML Pipeline
+name: Ravindra ML Pipeline
 
 on:
   push:
